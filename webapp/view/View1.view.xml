@@ -5,7 +5,7 @@
 				<Page id="page" title="{i18n>title}">
 					<content>  
 					<!--commit 1 remote user1-->
-					
+					<!--commit 2 remote user2-->
 					</content>
 				</Page>
 			</pages>
