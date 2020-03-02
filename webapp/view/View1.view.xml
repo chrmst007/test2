@@ -3,7 +3,10 @@
 		<App id="app">
 			<pages>
 				<Page id="page" title="{i18n>title}">
-					<content>  </content>
+					<content>  
+					<!--commit 1 remote user1-->
+					
+					</content>
 				</Page>
 			</pages>
 		</App>
